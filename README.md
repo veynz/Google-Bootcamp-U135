@@ -3,7 +3,7 @@ Takım Unity 135 &nbsp;
 
 <h1> Ürün İle İlgili Bilgiler </h1>
 <h2> Takım Elemanları </h2> 
-Birsu Yılmaz	         - Product Owner &nbsp;
+Birsu Yılmaz	         - Product Owner <br>
 Mert Bulut
 <h1> Ürün İsmi </h1>
 ---
