@@ -1,4 +1,4 @@
-<b> size="6" Takım İsmi <big> <b> &nbsp;
+ <big> Takım İsmi </big>  &nbsp;
 
 
 Takım Unity 135 &nbsp;
