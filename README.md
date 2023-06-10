@@ -1,4 +1,4 @@
- <big> Takım İsmi </big>  &nbsp;
+<h1> Takım İsmi </h1>  &nbsp;
 
 
 Takım Unity 135 &nbsp;
