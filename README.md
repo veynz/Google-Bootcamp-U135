@@ -1,14 +1,14 @@
-Takım İsmi &nbsp;
+<b> Takım İsmi <b> &nbsp;
 
 
 Takım Unity 135 &nbsp;
 
 
 
-Ürün İle İlgili Bilgiler &nbsp;
+<b> Ürün İle İlgili Bilgiler <b>  &nbsp;
 
 
-Takım Elemanları &nbsp;
+<b> Takım Elemanları <b>  &nbsp;
 
 
     Birsu Yılmaz	         - Product Owner
@@ -16,11 +16,11 @@ Takım Elemanları &nbsp;
 	Buse Rana Şimşek	 - Developer
 	Cansu Aydın     	 - Developer
 	Elif Türkaslan  	 - Developer
-Ürün İsmi &nbsp;
+<b> Ürün İsmi <b>  &nbsp;
 
 
 --
 
-Product Backlog URL &nbsp;
+<b> Product Backlog URL <b>  &nbsp;
 
 
