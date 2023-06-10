@@ -1,4 +1,4 @@
-<b> Takım İsmi <b> &nbsp;
+<b> <big> Takım İsmi <big> <b> &nbsp;
 
 
 Takım Unity 135 &nbsp;
