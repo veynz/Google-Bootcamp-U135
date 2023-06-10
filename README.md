@@ -11,8 +11,8 @@ Takım Unity 135 &nbsp;
 Takım Elemanları &nbsp;
 
 
-        Birsu Yılmaz	     - Product Owner
-	Mert Bulut  	     - Scrum Master
+        Birsu Yılmaz	         - Product Owner
+	Mert Bulut  	         - Scrum Master
 	Buse Rana Şimşek	 - Developer
 	Cansu Aydın     	 - Developer
 	Elif Türkaslan  	 - Developer
