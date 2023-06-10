@@ -11,5 +11,10 @@ Takım Unity 135 &nbsp;
 <h1> Ürün İsmi </h1>
 ---
 <h1> Product Backlog URL </h1>  &nbsp;
-
-
+---
+<h1> Ürün Açıklaması </h1>
+---
+<h1> Ürün Özellikleri </h1>
+---
+<h1> Hedef Kitle </h1>
+---
