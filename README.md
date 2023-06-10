@@ -4,7 +4,7 @@ Takım Unity 135 &nbsp;
 
 
 
-<b> Ürün İle İlgili Bilgiler <b>  &nbsp;
+<h1> Ürün İle İlgili Bilgiler </h1>  &nbsp;
 
 
 <b> Takım Elemanları <b>  &nbsp;
