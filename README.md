@@ -2,8 +2,8 @@
 Takım Unity 135 &nbsp;
 
 <h1> Ürün İle İlgili Bilgiler </h1>
-<h2> Takım Elemanları </h2>  &nbsp;
-    • Birsu Yılmaz	         - Product Owner &br
+<h2> Takım Elemanları </h2>
+    • Birsu Yılmaz	         - Product Owner &nbsp;
 	• Mert Bulut  	         - Scrum Master &nbsp;
 	• Buse Rana Şimşek	 - Developer &nbsp;
 	• Cansu Aydın     	 - Developer &nbsp;
