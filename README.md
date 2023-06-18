@@ -29,4 +29,17 @@ Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmi
 
 • Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
 <a href="https://docs.google.com/document/d/1biF5NdmBiBNWBpb9tYLWm4BZfzCdM5Usdp7yv98Xwgc/edit?usp=sharing">Sprint 1 Daily Scrum Chats /Word</a> <br>
-• Sprint board update: Sprint board screenshotları:
+• Sprint board update: Sprint board screenshotları: <br>
+• Ürün Durumu: Ekran görüntüleri: <br>
+• Sprint Review: Sprint boyunca; ekip olarak tanışma ve rol dağılımları yapılmış ardından oyun fikri bulma üzerinde çalışıldı. Ardından oyunun teması ve hikayesi kararlaştırıldı. Ayrıca ana karakter tasarımı yapıldı ve giriş ekranı düzenlemeleri yapıldı. İkinnci sprintte yapılması gerekenlere ve rol dağılımlarına karar verildi. <br> 
+Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif türkaslan ve Mert Bulut.
+
+Sprint boyunca, ekip olarak tanışma süreci, rollerin dağılımı, fikir bulma ve geliştirme süreçleri üzerinde çalışıldı. Ayrıca, karakter tasarımına yönelik ön çalışmalar yapıldı. Ekip üyeleri bir araya gelerek birbirini tanıdı ve beceri setlerini paylaştı. Roller netleştirildikten sonra fikir üretme ve geliştirme sürecine odaklanıldı. Oyunun temel mekanikleri, hikayesi ve karakter tasarımı için çalışmalar yapıldı. İkinci sprintte game art ve kodlama kısmının üstünde durulmasına ve pratik adımlar atılmasına karar verildi. Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
+
+
+
+Sprint Retrospective: <br>
+
+Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
