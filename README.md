@@ -9,11 +9,11 @@ Takım Unity 135 &nbsp;
  &nbsp;&nbsp;&nbsp;• Cansu Aydın     	 - Developer <br>
  &nbsp;&nbsp;&nbsp;• Elif Türkaslan  	 - Developer <br>
 <h1> Ürün İsmi </h1>
----
+Project A
 <h1> Product Backlog URL </h1>  &nbsp;
 ---
 <h1> Ürün Açıklaması </h1>
----
+Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmişte geçirdiği tramvvatik bir kaza sonucunda uzun süredir hastanede yatmaktadır. Verilen ilaçların her geçen gün dozunun artması sonucunda uzun ve derin uykular uyumaya başlamıştır. Yine bu uykuların birinde rüyasında gördükleriyle etkileşime girebildiğini fark etmiştir. İçinde uyanan merak duygusuyla birlikte etrafı keşfetmeye karar verir. Etkileşime girdiği ilk nesneyle beraber etrafındaki canavarlar tarafından görülür hale geldiğini anlar. Canavarlardan kaçtıktan sonra bölümü tamamlayabilmesi için bir bulmaca ile karşılaşır. Bulmacayı tamamladığında bir yetenek puanı kazanır. Bunu dilediği özelliğini geliştirmek için kullanabilir. Bölümler ilerdikçe daha zorlu canavarlar ve bulmacalar çözerek kendini hastaneden kurtarmaya çalışır.
 <h1> Ürün Özellikleri </h1>
 ---
 <h1> Hedef Kitle </h1>
