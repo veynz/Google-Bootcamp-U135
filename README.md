@@ -32,7 +32,8 @@ The Mindhitch level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz ge
 
 • Sprint board update: Sprint board screenshotları:![Ekran görüntüsü_20230618_212904](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/e0c28473-95ec-4b24-9636-cd33ee467910) <br>
 
-• Ürün Durumu: Ekran görüntüleri: <br>
+• Ürün Durumu: Ekran görüntüleri: ![WhatsApp Görsel 2023-06-18 saat 23 35 16](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/a8e2b8cf-ba86-4d1b-81e2-5762c125c983)
+<br>
 
 • Sprint Review: Sprint boyunca; ekip olarak tanışma ve rol dağılımları yapılmış ardından oyun fikri bulma üzerinde çalışıldı. Ardından oyunun teması ve hikayesi kararlaştırıldı. Ayrıca ana karakter tasarımı yapıldı ve giriş ekranı düzenlemeleri yapıldı. İkinnci sprintte yapılması gerekenlere ve rol dağılımlarına karar verildi. <br> 
 
