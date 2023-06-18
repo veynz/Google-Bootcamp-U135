@@ -28,5 +28,5 @@ Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmi
 • Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 • Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
-<a href="https://docs.google.com/document/d/1biF5NdmBiBNWBpb9tYLWm4BZfzCdM5Usdp7yv98Xwgc/edit?usp=sharing">Sprint 1 Daily Scrum Chats /Word</a> 
+<a href="https://docs.google.com/document/d/1biF5NdmBiBNWBpb9tYLWm4BZfzCdM5Usdp7yv98Xwgc/edit?usp=sharing">Sprint 1 Daily Scrum Chats /Word</a> <br>
 • Sprint board update: Sprint board screenshotları:
