@@ -34,7 +34,7 @@ Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmi
 • Sprint Review: Sprint boyunca; ekip olarak tanışma ve rol dağılımları yapılmış ardından oyun fikri bulma üzerinde çalışıldı. Ardından oyunun teması ve hikayesi kararlaştırıldı. Ayrıca ana karakter tasarımı yapıldı ve giriş ekranı düzenlemeleri yapıldı. İkinnci sprintte yapılması gerekenlere ve rol dağılımlarına karar verildi. <br> 
 Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
 
-Sprint Retrospective: İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
+Sprint Retrospective: · İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. <br> · Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. <br> · Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
 
 Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
