@@ -39,6 +39,6 @@ The Mindhitch level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz ge
 Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
 
 • Sprint Retrospective: <br> 
-· İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. <br> 
-· Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. <br> 
-· Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
+&emsp;· İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. <br> 
+&emsp;· Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. <br> 
+&emsp;· Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
