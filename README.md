@@ -23,7 +23,7 @@ Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmi
 <h1> Hedef Kitle </h1>
 12 yaş ve üzeri bulmaca - korku türünde oyun severlere hitap edecek türden bir oyundur.
 <h1> Sprint 1 </h1>
-<h3> • Sprint içinde tamamlanması tahmin edilen puan: </h3> - Puan
+• Sprint içinde tamamlanması tahmin edilen puan: - Puan
 
 • Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. İlk sprint de en az - puan tamamlanmasına karar verildi.
 
