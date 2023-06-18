@@ -3,11 +3,11 @@ Takım Unity 135 &nbsp;
 
 <h1> Ürün İle İlgili Bilgiler </h1>
 <h2> Takım Elemanları </h2> 
- &nbsp;&nbsp;&nbsp;• Birsu Yılmaz &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;- Product Owner <br>
+ &nbsp;&nbsp;&nbsp;• Birsu Yılmaz &emsp;&emsp;&nbsp;&nbsp;&nbsp;- Product Owner <br>
  &nbsp;&nbsp;&nbsp;• Mert Bulut &emsp;&emsp;&emsp;&nbsp;&nbsp;- Scrum Master <br>
  &nbsp;&nbsp;&nbsp;• Buse Rana Şimşek &nbsp;- Developer <br>
- &nbsp;&nbsp;&nbsp;• Cansu Aydın &emsp;&emsp;&nbsp; - Developer <br>
- &nbsp;&nbsp;&nbsp;• Elif Türkaslan &emsp;&emsp;&nbsp;- Developer <br>
+ &nbsp;&nbsp;&nbsp;• Cansu Aydın &emsp;&emsp;&nbsp;&nbsp; - Developer <br>
+ &nbsp;&nbsp;&nbsp;• Elif Türkaslan &emsp;&emsp;&nbsp;&nbsp;- Developer <br>
 <h1> Ürün İsmi </h1>
 The Mindhitch
 <h1> Product Backlog URL </h1>  &nbsp;
