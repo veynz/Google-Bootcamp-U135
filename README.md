@@ -18,7 +18,7 @@ The Mindhitch level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz ge
 <h1> Ürün Özellikleri </h1>
 &nbsp;&nbsp;·&nbsp; 12 yaş ve üzeri her kullanıcı için uygundur. <br>
 &nbsp;&nbsp;·&nbsp; Oyun mekaniği kolay kavranabilir. <br> 
-&nbsp;&nbsp;·&nbsp; Yetenek kazanımı ve karakter gelişimi özelliği ile birlikte kullancıda rekabet hissi uyandırır. <br>
+&nbsp;&nbsp;·&nbsp; Yetenek kazanımı ve karakter gelişimi özelliği ile birlikte kullanıcıda rekabet hissi uyandırır. <br>
 &nbsp;&nbsp;·&nbsp; Farklı seviyelerde artan zorluk ve uzun oynanış süresi. <br>
 <h1> Hedef Kitle </h1>
 12 yaş ve üzeri bulmaca - korku türünde oyun severlere hitap edecek türden bir oyundur.
