@@ -20,7 +20,6 @@ Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmi
 &nbsp;&nbsp;·&nbsp; Yetenek kazanımı ve karakter gelişimi özelliği ile birlikte kullancıda rekabet hissi uyandırır. <br>
 &nbsp;&nbsp;·&nbsp; Farklı seviyelerde artan zorluk ve uzun oynanış süresi. <br>
 <h1> Hedef Kitle </h1>
----
-<hr /> 
+12 yaş ve üzeri bulmaca - korku türünde oyun severlere hitap edecek türden bir oyundur.
 <h1> Sprint 1 </h1>
  
