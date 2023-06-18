@@ -36,7 +36,7 @@ The Mindhitch level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz ge
 ![WhatsApp Görsel 2023-06-18 saat 23 35 16](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/a8e2b8cf-ba86-4d1b-81e2-5762c125c983)
 <br>
 
-• Sprint Review: Sprint boyunca; ekip olarak tanışma ve rol dağılımları yapılmış ardından oyun fikri bulma üzerinde çalışıldı. Ardından oyunun teması ve hikayesi kararlaştırıldı. Ayrıca ana karakter tasarımı yapıldı ve giriş ekranı düzenlemeleri yapıldı. İkinnci sprintte yapılması gerekenlere ve rol dağılımlarına karar verildi. <br> 
+• Sprint Review: Sprint boyunca; ekip olarak tanışma ve rol dağılımları yapıldı ve oyun fikri bulma üzerinde çalışıldı. Ardından oyunun teması ve hikayesi kararlaştırıldı. Ayrıca ana karakter tasarımı yapıldı ve giriş ekranı düzenlemeleri yapıldı. İkinci sprintte yapılması gerekenlere ve rol dağılımlarına karar verildi. <br> 
 
 Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
 
