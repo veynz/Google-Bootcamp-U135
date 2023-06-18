@@ -23,15 +23,20 @@ Project A level tabanlı, bulmaca türünde bir oyundur. Ana karakterimiz geçmi
 <h1> Hedef Kitle </h1>
 12 yaş ve üzeri bulmaca - korku türünde oyun severlere hitap edecek türden bir oyundur.
 <h1> Sprint 1 </h1>
-• Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+• Sprint içinde tamamlanması tahmin edilen puan: - Puan
 
-• Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+• Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. İlk sprint de en az - puan tamamlanmasına karar verildi.
 
 • Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
 <a href="https://docs.google.com/document/d/1biF5NdmBiBNWBpb9tYLWm4BZfzCdM5Usdp7yv98Xwgc/edit?usp=sharing">Sprint 1 Daily Scrum Chats /Word</a> <br>
+
 • Sprint board update: Sprint board screenshotları: <br>
-• Ürün Durumu: Ekran görüntüleri: <br>
+
+• Ürün Durumu: Ekran görüntüleri:![Ekran görüntüsü_20230618_212904](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/e0c28473-95ec-4b24-9636-cd33ee467910)
+ <br>
+
 • Sprint Review: Sprint boyunca; ekip olarak tanışma ve rol dağılımları yapılmış ardından oyun fikri bulma üzerinde çalışıldı. Ardından oyunun teması ve hikayesi kararlaştırıldı. Ayrıca ana karakter tasarımı yapıldı ve giriş ekranı düzenlemeleri yapıldı. İkinnci sprintte yapılması gerekenlere ve rol dağılımlarına karar verildi. <br> 
+
 Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
 
 • Sprint Retrospective: <br> 
