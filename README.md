@@ -56,11 +56,12 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 • Ürün Durumu: Ekran görüntüleri:
 <br>
 
-• Sprint Review:  <br> 
+• Sprint Review: Seviye tasarımları güncellenerek tamamlanacak.
+Sesler eklenecek.
+Çevre tasarımları tamamlanacak.<br> 
 
 Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
 
 • Sprint Retrospective: <br> 
-&emsp;· İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. <br> 
-&emsp;· Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. <br> 
-&emsp;· Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
+&emsp;· İletişim konusunda yaşanan zorlukların önüne geçilmesi için Whatsapp'ın aktif kullanımı kararlaştırıldı. <br> 
+&emsp;· Bayram sürecinde yaşanan yavaş çalışma sebebiyle eksik kalınan kodlama kısmına yoğunlaşılmasına karar verildi. <br> 
