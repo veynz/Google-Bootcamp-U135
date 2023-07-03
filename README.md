@@ -44,3 +44,23 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 &emsp;· İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. <br> 
 &emsp;· Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. <br> 
 &emsp;· Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
+
+<h1> Sprint 2 </h1>
+• Sprint içinde tamamlanması tahmin edilen puan: 110 Puan
+
+• Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
+<a href="https://docs.google.com/document/d/1biF5NdmBiBNWBpb9tYLWm4BZfzCdM5Usdp7yv98Xwgc/edit?usp=sharing">Sprint 1 Daily Scrum Chats /Word</a> <br>
+
+• Sprint board update: Sprint board screenshotları: <br>
+
+• Ürün Durumu: Ekran görüntüleri:
+<br>
+
+• Sprint Review:  <br> 
+
+Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
+
+• Sprint Retrospective: <br> 
+&emsp;· İlerleme konusunda yaşanan zorlukları aşmak için daha sık iletişim kurma ve iletişim araçlarını aktif kullanma kararlaştırıldı. <br> 
+&emsp;· Takım üyeleri bireysel görevlerini yerine getirdi ve herkes ihtiyacı olan takım üyelerine yardımcı oldu. <br> 
+&emsp;· Takım üyelerinin gelecek sprintlerde daha aktif olmaslarına karar verildi.   <br>
