@@ -56,9 +56,7 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 • Ürün Durumu: Ekran görüntüleri:
 <br>
 
-• Sprint Review: Seviye tasarımları güncellenerek tamamlanacak.
-Sesler eklenecek.
-Çevre tasarımları tamamlanacak.<br> 
+• Sprint Review: Seviye ve çevre tasarımları tamamlanacak, oyunun başlangıcından bitişine kadar ki süreçteki seslendirmeler oyuna eklenerek final haline getirilecek. <br> 
 
 Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut.
 
