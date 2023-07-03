@@ -51,7 +51,8 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 • Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
 <a href="https://docs.google.com/document/d/1rqs89_4sVNI1pYsrzQINStc3k-wOCETMmXpVPAJ_Y7E/edit?usp=sharing">Sprint 2 Daily Scrum Chats /Word</a> <br>
 
-• Sprint board update: Sprint board screenshotları: <br>
+• Sprint board update: Sprint board screenshotları: ![Ekran görüntüsü_20230703_163945](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7d0997d1-c3c9-48ef-b7a5-ba8a74f8e9d2)
+<br>
 
 • Ürün Durumu: Ekran görüntüleri:
 <br>
