@@ -89,7 +89,6 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 
 ![görsel 1](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7961a41b-0d9c-4085-bf9f-30c06bd27a36)
 
-![görsel 2](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/659b6c8d-0aa1-4316-8cf6-b751a5ba7484)
 
 <br>
 
