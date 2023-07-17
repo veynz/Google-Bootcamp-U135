@@ -85,7 +85,7 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 
 • Ürün Durumu: Ekran görüntüleri:
 
-<a https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/1ad2bb88-2785-470b-89d2-fbd5647103bf >Karakter animasyonu
+<a href="https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/1ad2bb88-2785-470b-89d2-fbd5647103bf" >Karakter animasyonu
 
 ![görsel 1](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7961a41b-0d9c-4085-bf9f-30c06bd27a36)
 
