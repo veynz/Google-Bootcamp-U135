@@ -79,16 +79,17 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 • Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
 <a href="https://docs.google.com/document/d/1w-YN4wOAqXJao9F5iMrOsVAfrCsXD91Uu7a7lNzn6Yo/edit?usp=sharing">Sprint 3 Daily Scrum Chats /Word</a> <br>
 
-• Sprint board update: Sprint board screenshotları: ![Ekran görüntüsü_20230703_163945](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7d0997d1-c3c9-48ef-b7a5-ba8a74f8e9d2)
+• Sprint board update: Sprint board screenshotları: ![Ekran görüntüsü_20230717_110530](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/cdd5e25d-5dd4-49cd-a8ac-6482c2006d39)
+
 <br>
 
 • Ürün Durumu: Ekran görüntüleri:
 
-<a href="https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/0fd92a7f-5a85-486b-a44d-5bf8dd1d14f6">Karakter animasyonu
+<a https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/1ad2bb88-2785-470b-89d2-fbd5647103bf >Karakter animasyonu
 
-![WhatsApp Görsel 2023-06-23 saat 19 42 24](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/2ee28bce-ae5c-439c-92e9-76befc491cb0)
+![görsel 1](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7961a41b-0d9c-4085-bf9f-30c06bd27a36)
 
-![WhatsApp Görsel 2023-06-23 saat 16 42 35](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/14abcf39-4f11-443e-9d7b-1594cf98788c)
+![görsel 2](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/659b6c8d-0aa1-4316-8cf6-b751a5ba7484)
 
 <br>
 
