@@ -87,10 +87,7 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 
 <a href="https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/1ad2bb88-2785-470b-89d2-fbd5647103bf" >Karakter animasyonu
 
-![görsel 1](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7961a41b-0d9c-4085-bf9f-30c06bd27a36)
-
-
-<br>
+![görsel 1](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7961a41b-0d9c-4085-bf9f-30c06bd27a36) <br>
 
 • Sprint Review: Sprint boyunca nesneler ile etkileşim, oyuncu hareketlerini izleme ve puanlama, oyun alanına interaktif öğeler eklenmesi ve son olarak ses efektleri üzerinde çalışdı. Süreci Whatsapp üzerinden planladığımız Discord görüşmeleri ile yönettik. Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut. <br> 
 
