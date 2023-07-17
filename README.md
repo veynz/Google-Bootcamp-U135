@@ -70,4 +70,33 @@ Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkasla
 
 • Sprint Retrospective: <br> 
 &emsp;· İletişim konusunda yaşanan zorlukların önüne geçilmesi için Whatsapp'ın aktif kullanımı kararlaştırıldı. <br> 
-&emsp;· Bayram sürecinde yaşanan yavaş çalışma sebebiyle eksik kalınan kodlama kısmına yoğunlaşılmasına karar verildi. <br> 
+&emsp;· Bayram sürecinde yaşanan yavaş çalışma sebebiyle eksik kalınan kodlama kısmına yoğunlaşılmasına karar verildi. <br>
+
+
+<h1> Sprint 3 </h1>
+• Sprint içinde tamamlanması tahmin edilen puan: 110 Puan <br>
+
+• Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden planlanarak Discord üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg formatında word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır:
+<a href="https://docs.google.com/document/d/1rqs89_4sVNI1pYsrzQINStc3k-wOCETMmXpVPAJ_Y7E/edit?usp=sharing">Sprint 2 Daily Scrum Chats /Word</a> <br>
+
+• Sprint board update: Sprint board screenshotları: ![Ekran görüntüsü_20230703_163945](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/7d0997d1-c3c9-48ef-b7a5-ba8a74f8e9d2)
+<br>
+
+• Ürün Durumu: Ekran görüntüleri:
+
+<a href="https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/0fd92a7f-5a85-486b-a44d-5bf8dd1d14f6">Karakter animasyonu
+
+![WhatsApp Görsel 2023-06-23 saat 19 42 24](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/2ee28bce-ae5c-439c-92e9-76befc491cb0)
+
+![WhatsApp Görsel 2023-06-23 saat 16 42 35](https://github.com/veynz/Google-Bootcamp-U135/assets/58865083/14abcf39-4f11-443e-9d7b-1594cf98788c)
+
+<br>
+
+• Sprint Review: Sprint boyunca nesneler ile etkileşim, oyuncu hareketlerini izleme ve puanlama, oyun alanına interaktif öğeler eklenmesi ve son olarak ses efektleri üzerinde çalışdı. Süreci Whatsapp üzerinden planladığımız Discord görüşmeleri ile yönettik. Katılımcılar: Birsu Yılmaz, Buse Rana Şimşek, Cansu Aydın, Elif Türkaslan ve Mert Bulut. <br> 
+
+
+
+• Sprint Retrospective: <br>
+· Bir önceki sprintte eksik kalınan yerlerin tamamlanmasına özen gösterildi. Oyun tanıtımı videosu tamamlandı ve ürün teslime hazır hale getirildi.
+
+
